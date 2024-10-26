@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anonymous Yash</h1>
 <h3 align="center">A passionate FullStack-Developer from India</h3>
 
-<img align="right" alt = "Hacking with me" width = "400" src = "https://media.tenor.com/dE-mXqu8cnMAAAAi/anonymous-man.gif" >
+<img align="right" alt = "Hacking with me" width = "200" src = "https://media.tenor.com/dE-mXqu8cnMAAAAi/anonymous-man.gif" >
 
 - ⚡ Fun fact **I am Alone hence I am happy 😊!!!**
 
