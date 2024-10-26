@@ -1,4 +1,4 @@
-![logo](https://github.com/yashYT03/yashYT03/blob/main/anonymous1.webp)
+![logo](https://github.com/yashYT03/yashYT03/blob/main/anonymous4.png)
 <h1 align="center">Hi 👋, I'm Anonymous Yash</h1>
 <h3 align="center">A passionate FullStack-Developer from India</h3>
 
