@@ -9,8 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/thinkpositive3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/thinkpositive3" height="30" width="40" /></a>
-<a href="https://instagram.com/not use for me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not use for me" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anonymous_yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anonymous_yash" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/YashAuti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anonymous_yash" height="30" width="40" /></a>
 <a href="https://discord.gg/anonymous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anonymous" height="30" width="40" /></a>
 </p>
 
